@@ -1,8 +1,4 @@
 # Decision_Tree_Customer_churn_prediction
-Data Science Project by Using Python 
-
-# Customer Churn Prediction Project
-
 This project aims to predict customer churn using a **Decision Tree** model. The model is evaluated using **10-fold Cross Validation** to ensure robustness in performance.
 
 ### Dataset
